@@ -9,7 +9,7 @@ Contributions to this list are welcome! If you know of any free server hosting s
 - Add the hosting service details to the list
 - Include a brief description, features, limitations, and any user experiences if available
 - Submit a pull request
-  
+ ---
 1. **PythonAnywhere**
    - **Description:** PythonAnywhere offers free hosting for Python applications and web development.
    - **Features:**
