@@ -1,5 +1,15 @@
 ## List of Free Server Hosting Services
 
+## Purpose
+The purpose of this repository is to compile and maintain a list of free server hosting options, making it easier for users to find suitable solutions for their hosting needs without incurring costs.
+
+## Contributing
+Contributions to this list are welcome! If you know of any free server hosting services or have experiences to share, please follow these guidelines:
+- Fork this repository
+- Add the hosting service details to the list
+- Include a brief description, features, limitations, and any user experiences if available
+- Submit a pull request
+  
 1. **PythonAnywhere**
    - **Description:** PythonAnywhere offers free hosting for Python applications and web development.
    - **Features:**
